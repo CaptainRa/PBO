@@ -19,5 +19,7 @@ public class MBangunDatar{
         System.out.println("Keliling: " + L1.getKeliling());
 
         BangunDatar.printCounterBangunDatar();
+        L1.printCounterBangunDatar();
+        P1.printCounterBangunDatar();
     }
 }
