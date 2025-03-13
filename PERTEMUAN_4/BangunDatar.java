@@ -9,6 +9,11 @@ public class BangunDatar{
     private String border;
     private static int counterBangunDatar = 0;
 
+    // protected int jmlSisi;
+    // protected String warna;
+    // protected String border;
+    // protected static int counterBangunDatar = 0;
+
     public BangunDatar(int jmlSisi, String warna, String border){
         this.jmlSisi = jmlSisi;
         this.warna = warna;

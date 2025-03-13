@@ -17,5 +17,7 @@ public class MBangunDatar{
         L1.printInfo();
         System.out.println("Luas: " + L1.getLuas());
         System.out.println("Keliling: " + L1.getKeliling());
+
+        BangunDatar.printCounterBangunDatar();
     }
 }
